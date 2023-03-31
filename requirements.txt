@@ -7,3 +7,4 @@ numpy==1.21.0
 scikit-learn==1.1.1
 imblearn==0.0
 xgoost==1.7.5
+pip==23.0.1
